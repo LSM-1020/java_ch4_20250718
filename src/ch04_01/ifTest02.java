@@ -32,6 +32,7 @@ public class ifTest02 {
 			else { 
 				System.out.println ("육이 나왔습니다.");
 			}
+		
 					
 				
 		
