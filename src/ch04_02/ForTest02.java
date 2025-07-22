@@ -6,9 +6,9 @@ public class ForTest02 {
 		// TODO Auto-generated method stub
 
 		//
-		for(int i=5;i<=10;i--) {
-			System.out.println("i값 :" + i);
-		}
+//		for(int i=5;i<=10;i--) {
+//			System.out.println("i값 :" + i);
+//		}
 		
 		for(int i=5;i<=10;i--) {
 			System.out.println("i값 :" + i);
